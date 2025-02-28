@@ -25,3 +25,6 @@
 	path = lib/lvgl
 	url = https://github.com/qmk/lvgl.git
 	branch = release/v8.2
+[submodule "keyboards/zsa/voyager/keymaps/personal"]
+	path = keyboards/zsa/voyager/keymaps/personal
+	url = git@github.com:The-Briel-Deal/voyager-qmk-config.git
