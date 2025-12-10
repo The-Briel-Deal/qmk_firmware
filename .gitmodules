@@ -28,3 +28,6 @@
 [submodule "modules/zsa"]
 	path = modules/zsa
 	url = https://github.com/zsa/qmk_modules.git
+[submodule "keyboards/zsa/voyager/keymaps/personal"]
+	path = keyboards/zsa/voyager/keymaps/personal
+	url = git@github.com:The-Briel-Deal/voyager-qmk-config.git
